@@ -8,7 +8,7 @@ At least 2 devices.
 
 User Experience
 
-1) go to codenam.es
+1. go to codenam.es
     - new room
         + go to page codename.es/random-set-of-words
     - join room
@@ -16,12 +16,12 @@ User Experience
         + or select words ---> first word (if there's more than 10 games going on at once this will be hard...);
     - about
         + displays some stuff...
-2) go to codenam.es/random-set-of-words
+2. go to codenam.es/random-set-of-words
     - if room exists:
         + try to join room
     - else:
         + create this room
-3) join a room:
+3. join a room:
     - set option dialogue
         + first device
             * number of teams
@@ -31,7 +31,7 @@ User Experience
             * team colour (optional)
             * room open for new connections / closed
 
-4) once in room:
+4. once in room:
     - menu stuff:
     - options button:
         + view as spymaster/player
